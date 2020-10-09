@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue.js on Tortelbird - A blag</title>
+    <link>https://tortelbird.github.io/tags/vue.js/</link>
+    <description>Recent content in Vue.js on Tortelbird - A blag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 11:49:11 +0200</lastBuildDate><atom:link href="https://tortelbird.github.io/tags/vue.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Municipality Map</title>
+      <link>https://tortelbird.github.io/posts/municipality-map/</link>
+      <pubDate>Fri, 09 Oct 2020 11:49:11 +0200</pubDate>
+      
+      <guid>https://tortelbird.github.io/posts/municipality-map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
