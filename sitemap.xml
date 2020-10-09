@@ -3,20 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tortelbird.github.io/about/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tortelbird.github.io/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tortelbird.github.io/categories/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/tags/konda.js/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/tags/maps/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/posts/municipality-map/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/posts/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/categories/software-engineering/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://tortelbird.github.io/tags/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/tags/vue.js/</loc>
+    <lastmod>2020-10-09T11:49:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortelbird.github.io/about/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
